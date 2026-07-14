@@ -34,46 +34,49 @@ This project focuses on transforming raw sales data into meaningful insights for
 
 
 📊 🔹 Page 2: Detailed Analysis Dashboard
+
 The second page dives deeper into granular insights, such as:
 
-  🏬 Sales by Outlet Size (Donut Chart): Medium, Small, High performance comparison
+    🏬 Sales by Outlet Size (Donut Chart): Medium, Small, High performance comparison
   
-  🌍 Sales by Location Tier (Bar Chart): Tier 1, 2, 3 analysis
+    🌍 Sales by Location Tier (Bar Chart): Tier 1, 2, 3 analysis
   
-  📊 Item-wise Sales & Visibility (Bar Chart): Product-level insights
+    📊 Item-wise Sales & Visibility (Bar Chart): Product-level insights
   
-  📅 Sales Trend by Establishment Year (Area Chart): Growth over time
+    📅 Sales Trend by Establishment Year (Area Chart): Growth over time
   
-  📋 Outlet Type Table: Comparison of sales and ratings across different outlet types
+    📋 Outlet Type Table: Comparison of sales and ratings across different outlet types
+
 
 👉 Why it matters?
- 🔹️ This page helps businesses:
+    🔹️ This page helps businesses:
  
- 🔹️ Understand which outlet types perform best
+    🔹️ Understand which outlet types perform best
  
- 🔹️ Analyze location-based sales trends
+    🔹️ Analyze location-based sales trends
  
- 🔹️ Identify growth patterns over time
+    🔹️ Identify growth patterns over time
  
- 🔹️ Improve inventory and marketing strategies
+    🔹️ Improve inventory and marketing strategies
 
 
 💡 Key Learnings
- 🔹️ Data cleaning & transformation
+
+   🔹️ Data cleaning & transformation
  
- 🔹️ Data visualization best practices
+   🔹️ Data visualization best practices
  
- 🔹️ Creating interactive dashboards in Power BI
+   🔹️ Creating interactive dashboards in Power BI
  
- 🔹️ Extracting actionable insights from data
+   🔹️ Extracting actionable insights from data
 
 
 🛠️ Tools Used
- 🔹️ Power BI
+   🔹️ Power BI
  
- 🔹️ Data Modeling
+   🔹️ Data Modeling
  
- 🔹️ DAX (Basics)
+   🔹️ DAX (Basics)
 
 
 🔥 Conclusion
@@ -83,4 +86,5 @@ This dashboard demonstrates how data can be transformed into powerful insights t
 
 
 ✨ I’m continuously learning and exploring Data Science & Analytics.
+
 Would love your feedback and suggestions!
