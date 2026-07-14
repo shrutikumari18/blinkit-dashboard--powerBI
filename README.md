@@ -5,6 +5,7 @@ I’m excited to share my latest Power BI dashboard project inspired by Blinkit 
 This project focuses on transforming raw sales data into meaningful insights for better business decision-making.
 
 
+
 📊 🔹 Page 1: Sales Overview Dashboard
 
  In the first page, I created a high-level summary of business performance, including:
@@ -16,6 +17,7 @@ This project focuses on transforming raw sales data into meaningful insights for
    ⭐  Average Rating – Customer satisfaction insights
  
    📈 Average Sales – Performance indicator
+
 
 
 🔍 Visual Insights:
@@ -30,6 +32,7 @@ This project focuses on transforming raw sales data into meaningful insights for
 👉 Why it matters?
 
      This page helps stakeholders quickly understand overall performance, identify top categories, and make data-driven decisions at a glance.
+
 
 
 
@@ -48,16 +51,19 @@ The second page dives deeper into granular insights, such as:
     📋 Outlet Type Table: Comparison of sales and ratings across different outlet types
 
 
+
 👉 Why it matters?
-    🔹️ This page helps businesses:
+
+   🔹️ This page helps businesses:
  
-    🔹️ Understand which outlet types perform best
+   🔹️ Understand which outlet types perform best
  
-    🔹️ Analyze location-based sales trends
+   🔹️ Analyze location-based sales trends
  
-    🔹️ Identify growth patterns over time
+   🔹️ Identify growth patterns over time
  
-    🔹️ Improve inventory and marketing strategies
+   🔹️ Improve inventory and marketing strategies
+
 
 
 💡 Key Learnings
@@ -71,12 +77,14 @@ The second page dives deeper into granular insights, such as:
    🔹️ Extracting actionable insights from data
 
 
+
 🛠️ Tools Used
    🔹️ Power BI
  
    🔹️ Data Modeling
  
    🔹️ DAX (Basics)
+
 
 
 🔥 Conclusion
