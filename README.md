@@ -7,29 +7,29 @@ This project focuses on transforming raw sales data into meaningful insights for
 
 📊 🔹 Page 1: Sales Overview Dashboard
 
-      In the first page, I created a high-level summary of business performance, including:
+ In the first page, I created a high-level summary of business performance, including:
 
-     💰 Total Sales – Overall revenue generated
+   💰 Total Sales – Overall revenue generated
  
-     📦 Number of Items – Total products sold
+   📦 Number of Items – Total products sold
  
-     ⭐ Average Rating – Customer satisfaction insights
+   ⭐  Average Rating – Customer satisfaction insights
  
-     📈 Average Sales – Performance indicator
+   📈 Average Sales – Performance indicator
 
 
 🔍 Visual Insights:
 
-     🔹️Sales by Item Type (Bar Chart): Identifies top-performing categories
+   🔹️Sales by Item Type (Bar Chart): Identifies top-performing categories
  
-     🔹️Sales Distribution (Donut Chart): Shows contribution of different item types
+   🔹️Sales Distribution (Donut Chart): Shows contribution of different item types
  
-     🔹️Outlet-wise Sales (Pie Chart): Helps understand performance across outlets
+   🔹️Outlet-wise Sales (Pie Chart): Helps understand performance across outlets
 
 
 👉 Why it matters?
 
-         This page helps stakeholders quickly understand overall performance, identify top categories, and make data-driven decisions at a glance.
+     This page helps stakeholders quickly understand overall performance, identify top categories, and make data-driven decisions at a glance.
 
 
 
